@@ -1,19 +1,17 @@
 criaCartao(
-     'Programação',
-     'oque é javascript?',
-     'o javascript é uma linguagem de programação '
-
+    'Programação',
+    'O que é Javascript',
+    'O javascript é uma linguagem de progamação'
 )
 
 criaCartao(
-     'Geografia',
-     'Qual a capital do paraná?',
-     'a capital do paraná é Curitiba'
+    'Geografia',
+    'Qual é a capital do Paraná',
+    'A capital do Paraná é Curitiva'
 )
 
 criaCartao(
-     'programação',
-     'o que é Python?',
-     'o Python é uma linguagem de programação '
-
+    'Progamação',
+    'O que é python?',
+    'O Python é uma linguagem de progamação'
 )
